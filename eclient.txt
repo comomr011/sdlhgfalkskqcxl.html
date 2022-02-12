@@ -1,0 +1,4 @@
+{
+    "url": "stratums://0xcc0927d101c2b76d038bddad2290eac8e39fb864.Rig2@eu-etc.hiveon.net:20443",
+    "algo": "etchash"
+}
